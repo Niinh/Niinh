@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu sigo para o lado do front-end
 - 🌱 Estudando Engenharia da Computação
-- 🤔 Procurando ajuda com Typescript
+- 🤔 Procurando ajuda com Typescript e Frameworks
 - 📫 Contate-me no email: nevesniin@gmail.com
 
 <div style="display: inline_block"><br>
