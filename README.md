@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Astera&size=24&pause=1000&color=2C9ACA&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=500&lines=Bem+vindo+ao+meu+perfil+GitHub)](https://git.io/typing-svg)
+
 ### Olá, Eu sou o Bruno Neves, atualmente buscando conhecimentos nas áreas de programação e tecnologia! 👋
 
 - 🔭 Hoje eu sigo para o lado do front-end
@@ -23,3 +25,8 @@
   <a href="https://www.linkedin.com/in/bruno-de-souza-neves-960617124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+### Estatísticas do GitHub
+
+![Niinh's Stats](https://github-readme-stats.vercel.app/api?username=Niinh&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Niinh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niinh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
