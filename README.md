@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Astera&size=24&pause=1000&color=2C9ACA&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=500&lines=Bem+vindo+ao+meu+perfil+GitHub)](https://git.io/typing-svg)
 
-### Olá, Eu sou o Bruno Neves, atualmente buscando conhecimentos nas áreas de programação e tecnologia! 👋
-
-- 🔭 Hoje eu sigo para o lado do front-end
-- 🌱 Estudando Engenharia da Computação
-- 🤔 Procurando ajuda com Typescript e Frameworks
 - 📫 Contate-me no email: nevesniin@gmail.com
 
 <div style="display: inline_block"><br>
